@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**harinij/harinij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Harini Janakiraman. I am currently building something new and exciting.. Watch this space! ✨👩🏻‍💻   <br/>
 
-Here are some ideas to get you started:
+(Oh, if you are a react/typescript developer or product designer feel free to ping me I am looking to hire.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**In other news:**
+- Previously I was **Partner and Head of Technology** at an early-stage VC @Antler
+- Before that I was **VP of Engineering** at @BlackRock
+- Angel investor and tech advisor
+- Build things and always side hustling (Founded @Kable, #100DaysOfCode)
+
+## Links
+- Twitter: https://twitter.com/HariniLabs
+- LinkedIn: https://www.linkedin.com/in/harinijanakiraman/
+
+## Open Source
+
+**[Firetable](https://github.com/FiretableProject/firetable)** - Join our [Discord](https://discord.gg/B8yAD5PDX4) and star us on [Github](https://github.com/FiretableProject/firetable) to follow the journey!
+
+<img src = "https://user-images.githubusercontent.com/307298/126592760-53dc3218-0830-4ae8-a5a5-a038f7c91068.png" >
+
+
+
