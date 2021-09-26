@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Harini Janakiraman. Building open source project **[Rowy](https://github.com/RowyIO/rowy)** that allows you to build your product on the Google Cloud Platform fast. Get started [here](http://rowy.io). 🙌
+I am Harini Janakiraman. Building an open source project **[Rowy](https://github.com/RowyIO/rowy)** that allows you to build your product on the Google Cloud Platform fast. Get started [here](http://rowy.io). 🙌
 
 #### Join us and our community of developers: 
 - [Discord](https://discord.gg/B8yAD5PDX4)
