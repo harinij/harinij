@@ -1,11 +1,10 @@
-## Hi there 👋
+## Hi, I am Harini 👋
 
-I am Harini Janakiraman. Building an open source project **[Rowy](https://github.com/RowyIO/rowy)** that allows you to build your product on the Google Cloud Platform fast. Get started [here](https://github.com/RowyIO/rowy). 🙌
+Building **[Rowy](https://github.com/RowyIO/rowy)** - an open-source lowcode platform to build your product backend in minutes, all in your browser. 
 
-#### Join us and our community of developers: 
-- [Discord](https://discord.com/invite/fjBugmvzZP)
-- [Twitter](https://twitter.com/RowyIO)
+#### 🔭 Explore [live demo](https://demo.rowy.io/).
+👯‍♀️ Join a community of developers and builders on [Discord](https://discord.com/invite/fjBugmvzZP)
 
-<!-- <img src = "https://user-images.githubusercontent.com/307298/126592760-53dc3218-0830-4ae8-a5a5-a038f7c91068.png" > -->
+🐦 Reach me on [Twitter](https://twitter.com/HariniLabs)
 
-(Oh, if you are a react/typescript developer or product designer feel free to ping me I am looking to hire.)
+(Oh, if you are a react/typescript developer or product designer feel free to ping me, we are hiring)
